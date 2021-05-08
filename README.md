@@ -13,6 +13,7 @@ Apasionado de la programación y las nuevas tecnologías***:cloud::computer:
 
 </div>
 
+<hr>
   
 <div align="center">
   
@@ -25,6 +26,8 @@ Apasionado de la programación y las nuevas tecnologías***:cloud::computer:
   ![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
+
+<hr>
 
 <div align="center">
   
