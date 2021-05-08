@@ -29,7 +29,7 @@ Passionate about programming and new technologies***:cloud::computer:
 <div align="center">
   
   ### Contact
-  :email:***Correo :***   ghma28@outlook.com
+  :email:***Mail :***   ghma28@outlook.com
   
 </div>
 
