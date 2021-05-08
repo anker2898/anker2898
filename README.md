@@ -8,7 +8,7 @@
 <div align="center" >
   
 ***Soy un estudiante de ingeniería de sistemas :grin::grin: <br>
-Soy autodidacta :blue_book::ledger::books:<br>
+Autodidacta :blue_book::ledger::books:<br>
 Apasionado de la programación y las nuevas tecnologías***:cloud::computer:
 
 </div>
