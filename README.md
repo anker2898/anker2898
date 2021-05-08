@@ -1,4 +1,4 @@
-## Hi,  I'm Marcos Antonio Gutierrez :wave::grin:
+## Hola, soy  Marcos Antonio Gutierrez :wave::grin:
 <div align="center">
   
   ![](https://img.freepik.com/vector-gratis/caracter-desarrollador-software-programador-desarrolla-ilustracion-codigo_80590-7310.jpg?size=626&ext=jpg)
@@ -7,16 +7,16 @@
 
 <div align="center" >
   
-***I am a systems engineering student. :grin::grin: <br>
-I'm autodidactic:blue_book::ledger::books:<br>
-Passionate about programming and new technologies***:cloud::computer:
+***Soy un estudiante de ingeniería de sistemas :grin::grin: <br>
+Soy autodidacta :blue_book::ledger::books:<br>
+Apasionado de la programación y las nuevas tecnologías***:cloud::computer:
 
 </div>
 
   
 <div align="center">
   
-  ### :computer::iphone:Technologies
+  ### :computer::iphone:Tecnologias
   ![Python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white)
   ![PHP](https://img.shields.io/badge/-php-7b0ad1?style=for-the-badge&logo=php&logoColor=white)
@@ -28,8 +28,8 @@ Passionate about programming and new technologies***:cloud::computer:
 
 <div align="center">
   
-  ### Contact
-  :email:***Mail :***   ghma28@outlook.com
+  ### Contacto
+  :email:***Correo :***   ghma28@outlook.com
   
 </div>
 
