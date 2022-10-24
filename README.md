@@ -20,6 +20,7 @@ Apasionado de la programación y las nuevas tecnologías***:cloud::computer:
   ### :computer::iphone:Tecnologias
   ![Python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=csharp&logoColor=white)
   ![PHP](https://img.shields.io/badge/-php-7b0ad1?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-javascript-f4d03f?style=for-the-badge&logo=javascript&logoColor=white)
   ![HTML](https://img.shields.io/badge/-hmtl-ff5733?style=for-the-badge&logo=html5&logoColor=white)
